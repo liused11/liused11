@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Burin Rachakitja | บุรินทร์ ราชกิจจา</h1>
 <h3 align="center">Web Development & Frontend Engineering</h3>
 <h3 align="center"> ======================================================================== </h3>
+
+Welcome to my GitHub profile! I'm a passionate and driven Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), currently in my third year of exploring the fascinating world of technology and innovation
+
+* 🌍  I'm based in Bangkok, Thailand
+* 🖥️  See my portfolio at [My portfolio](https://a-motthet.github.io/portfolio-web/)
+* ✉️  You can contact me at [atsadawut.mot@gmail.com](mailto:atsadawut.mot@gmail.com)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/booklyn___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="booklyn___" height="30" width="40" /></a>
