@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burin Rachakitja | บุรินทร์ ราชกิจจา</h1>
 
 <h3 align="center">Web Development & Frontend Engineering</h3>
---------------------------------------
 <h3 align="center"> ================================================================== </h3>
 
 Welcome to my GitHub profile! I'm a passionate and driven Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), currently in my third year of exploring the fascinating world of technology and innovation
