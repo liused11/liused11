@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I'm a passionate and driven Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT), currently in my third year of exploring the fascinating world of technology and innovation
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My portfolio](https://liused11.github.io/portfolio-web/)
+* 🖥️  See my portfolio at [My portfolio](https://liused11.github.io/port/)
 * ✉️  You can contact me at [burinrachakitja@gmail.com](mailto:burinrachakitja@gmail.com)
   
 <h3 align="left">Connect with me:</h3>
