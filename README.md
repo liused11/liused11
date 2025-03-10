@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and driven Computer Engineering s
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My portfolio](https://liused11.github.io/port/)
 * ✉️  You can contact me at [burinrachakitja@gmail.com](mailto:burinrachakitja@gmail.com)
-  
+* current project [Project](https://booklius.itch.io/finalprojectnotdone)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/booklyn___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="booklyn___" height="30" width="40" /></a>
